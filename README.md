@@ -18,4 +18,3 @@ Files:
 - src/App.jsx
 - src/index.css
 
-Replace /public/assets/resume.pdf with your resume and update social links in src/App.jsx
